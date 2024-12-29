@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\QSP\Desktop\Alphabets Patterns\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1503309922.index
+607342417.index
